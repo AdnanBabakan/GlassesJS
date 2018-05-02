@@ -1,0 +1,37 @@
+{
+  "name": "glassesjs",
+  "version": "0.4.2",
+  "description": "A simple yet powerfull webserver for JavaScript and new taste of it ",
+  "main": "glasses.js",
+  "dependencies": {
+    "cryptr": "^3.0.0",
+    "ejs": "^2.5.8",
+    "eval": "^0.1.2",
+    "express": "^4.16.3",
+    "mime-types": "^2.1.18",
+    "minify": "^3.0.5",
+    "moment": "^2.20.1",
+    "node-datetime": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdnanBabakan/GlassesJS.git"
+  },
+  "keywords": [
+    "webserver",
+    "web",
+    "server",
+    "http",
+    "javascript"
+  ],
+  "author": "Adnan Babakan",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/AdnanBabakan/GlassesJS/issues"
+  },
+  "homepage": "https://github.com/AdnanBabakan/GlassesJS#readme"
+}
