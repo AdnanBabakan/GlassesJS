@@ -10,6 +10,6 @@ node glasses.js
 ```
 
 ## How to use?
-For further information visit Wiki page of this project.
+For further information visit wiki page of this project.
 
 [GlassesJS Wiki](https://github.com/AdnanBabakan/GlassesJS/wiki)
