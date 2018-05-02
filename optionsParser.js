@@ -28,7 +28,7 @@ function rand(min, max) {
   }
 
 const fs = require("fs");
-var configFile = fs.readFileSync(".CONFIG", "utf8");
+var configFile = fs.readFileSync("config.config", "utf8");
 var configLineParser = configFile.split(/\n/gi);
 configLineParser.remove("");
 
