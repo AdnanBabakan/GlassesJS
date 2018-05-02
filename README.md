@@ -1,5 +1,5 @@
 # GlassesJS
-A simple yet powerfull webserver for JavaScript adna  new taste of it
+A simple yet powerfull webserver for JavaScript and new taste of it.
 
 **_This project is still developing and might be unstable._**
 
