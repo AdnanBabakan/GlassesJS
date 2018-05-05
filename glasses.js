@@ -232,7 +232,6 @@ glasses.all(/(.*?)/, function(req, res) {
                     }
                     return till + ';';
                 });
-                console.log(sjsParser);
                 sjsParser = sjsParser.split(/(?=<script run>)((.|[\r\n])*?)<\/script>/gi);
                 sjsParser.remove('%>');
                 for(var i=0; i<sjsParser.length; i++) {
